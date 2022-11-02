@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookAdvisorDemo</string>
+    <string name="choose_book_topic">Choose book topic</string>
+    <string name="show_books">show books</string>
+    <string-array name="book_topics">
+        <item>Computer Networks</item>
+        <item>Mobile  Programming</item>
+        <item>Web Programming</item>
+    </string-array>
+</resources>
